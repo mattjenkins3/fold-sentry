@@ -1,0 +1,7 @@
+fold,role,sample_id,group_id,feature_at_utc,label_available_utc
+fold-a,train,train-a,site-a,2026-01-01T00:00:00Z,2026-01-01T06:00:00Z
+fold-a,train,train-b,site-b,2026-01-02T00:00:00Z,2026-01-02T06:00:00Z
+fold-a,test,test-c,site-c,2026-01-03T00:00:00Z,2026-01-03T06:00:00Z
+fold-a,test,test-d,site-d,2026-01-04T00:00:00Z,2026-01-04T06:00:00Z
+fold-b,train,train-c,site-c,2026-01-01T00:00:00-07:00,2026-01-01T09:00:00-07:00
+fold-b,test,test-a,site-a,2026-01-03T00:00:00-07:00,2026-01-03T06:00:00-07:00

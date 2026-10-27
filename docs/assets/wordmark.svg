@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="152" viewBox="0 0 780 152" role="img" aria-labelledby="title desc">
+<title id="title">Fold Sentry</title><desc id="desc">An outlined shield and a split timeline, next to the Fold Sentry name.</desc>
+<rect width="780" height="152" rx="18" fill="#101b2a"/>
+<path d="M72 22 L117 38 V76 Q113 111 72 131 Q31 111 27 76 V38Z" fill="none" stroke="#79e1b6" stroke-width="6"/>
+<path d="M47 80 H64 L72 58 L81 92 L91 80 H102" fill="none" stroke="#79e1b6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="152" y="85" font-family="system-ui, sans-serif" font-weight="700" font-size="54" fill="#f1f6fa">Fold Sentry</text>
+<text x="155" y="116" font-family="system-ui, sans-serif" font-size="20" fill="#a8c4d1">Audit the split before you trust the score.</text>
+</svg>

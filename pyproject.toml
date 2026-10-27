@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fold-sentry"
+version = "0.1.0"
+description = "Dependency-free preflight checks for ML train/test group and label-time leakage"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+
+[project.scripts]
+fold-sentry = "fold_sentry.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

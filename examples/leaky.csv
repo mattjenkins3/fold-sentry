@@ -1,0 +1,5 @@
+fold,role,sample_id,group_id,feature_at_utc,label_available_utc
+fold-a,train,train-a,site-a,2026-01-01T00:00:00Z,2026-01-04T00:00:00Z
+fold-a,train,train-b,site-b,2026-01-03T01:00:00Z,2026-01-03T02:00:00Z
+fold-a,test,test-a,site-a,2026-01-03T00:00:00Z,2026-01-03T04:00:00Z
+fold-a,test,train-a,site-c,2026-01-04T00:00:00Z,2026-01-04T02:00:00Z
