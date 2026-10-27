@@ -6,7 +6,7 @@
 <path d="M70 252 H785" stroke="#476276" stroke-width="3"/>
 <path d="M480 66 V258" stroke="#bc6a22" stroke-dasharray="8 7" stroke-width="3"/>
 <path d="M620 66 V258" stroke="#2e5679" stroke-dasharray="8 7" stroke-width="3"/>
-<text x="455" y="58" font-family="sans-serif" font-size="16" text-anchor="end" fill="#94531b">cutoff = test − embargo</text>
+<text x="455" y="58" font-family="sans-serif" font-size="16" text-anchor="end" fill="#94531b">cutoff = test - embargo</text>
 <text x="625" y="58" font-family="sans-serif" font-size="16" fill="#2e5679">first test</text>
 <text x="34" y="116" font-family="sans-serif" font-size="16" fill="#132739">Safe label</text>
 <path d="M176 108 H395" stroke="#258566" stroke-width="14" stroke-linecap="round"/>
